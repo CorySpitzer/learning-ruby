@@ -70,6 +70,14 @@ puts "Hello World"
 # In other words, being born into a given class does not 
 # determine status. In Ruby, objects are not tied to their class.
 
+#------ 1.1.6
+
+# to Check syntax without running: ruby -c <prog_name.rb>
+# for Warning: ruby -w <prog_name.rb>
+# or both together: -wc
+
+#------ 1.1.7
+
 
 
 
